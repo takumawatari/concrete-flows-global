@@ -1,6 +1,6 @@
 # concrete_global_ME
 
-This repository contains system models and datasets assessing the impact of material efficiency strategies on the global concrete cycle.
+This repository contains system models and datasets to assess the impact of material efficiency strategies on the global concrete cycle.
 
 The details and results of this model are published as the following journal article:
 

@@ -1,4 +1,4 @@
-# Global concrete flows data
+# Global concrete flow data
 
 This repository contains system models and datasets to assess the impact of material efficiency strategies on the global concrete cycle.
 

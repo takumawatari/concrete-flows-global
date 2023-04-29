@@ -12,7 +12,7 @@ def compute_outflow(inflow, lifetime, sd):
     outflow = np.repeat(0, len(year_complete))
 
     # Iterate over years
-    for k in range(1901, 2051):
+    for k in range(1901, 2021):
         # Compute outflow for each year
         outflow_list = inflow.iloc[0:len(year_complete)] * norm.pdf(k - year_complete, lifetime.iloc[0:len(year_complete)],  sd.iloc[0:len(year_complete)])
 
